@@ -1,3 +1,0 @@
-# Desafio Full Stack
-
-
