@@ -76,6 +76,17 @@
   "directories": {
     "test": "test"
   },
-  "keywords": [],
-  "endOfLine": "lf"
+  "eslintConfig": {
+    "rules": {
+      "linebreak-style": [
+        "error",
+        "unix"
+      ]
+    }
+  },
+  "prettier": {
+    "singleQuote": true,
+    "endOfLine": "lf"
+  },
+  "keywords": []
 }
